@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef8df1ae-a5e9-48e3-903f-cb00756cb8f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="ProjectId" id="1oSlMfx3KMCaRvGz7HUMZmjTtJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HW2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMain" />
+      <module name="ex1-hello-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8df1ae-a5e9-48e3-903f-cb00756cb8f0" name="Default Changelist" comment="" />
+      <created>1613287825542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613287825542</updated>
+      <workItem from="1613287827232" duration="2863000" />
+      <workItem from="1613290840527" duration="495000" />
+      <workItem from="1613291462225" duration="3710000" />
+      <workItem from="1613374501933" duration="1893000" />
+      <workItem from="1613974972165" duration="4919000" />
+      <workItem from="1614141946006" duration="547000" />
+      <workItem from="1614922536070" duration="3167000" />
+      <workItem from="1614928921689" duration="498000" />
+      <workItem from="1615168703830" duration="627000" />
+      <workItem from="1615451283563" duration="603000" />
+      <workItem from="1615455704336" duration="592000" />
+      <workItem from="1615699087069" duration="1705000" />
+      <workItem from="1616044143086" duration="1673000" />
+      <workItem from="1616658870778" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613291544167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613291544167" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1614925609418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614925609418" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616658903257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616658903257" />
+    <state width="1478" height="261" key="GridCell.Tab.0.bottom" timestamp="1614926714166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
+    <state width="1478" height="261" key="GridCell.Tab.0.center" timestamp="1614926714166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
+    <state width="1478" height="261" key="GridCell.Tab.0.left" timestamp="1614926714166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
+    <state width="1478" height="261" key="GridCell.Tab.0.right" timestamp="1614926714166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
+    <state x="180" y="72" key="new project wizard" timestamp="1613384179124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="180" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613384179124" />
+  </component>
+</project>
