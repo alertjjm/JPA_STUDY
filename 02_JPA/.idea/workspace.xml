@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ef8df1ae-a5e9-48e3-903f-cb00756cb8f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hellojpa/JpaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hellojpa/JpaMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hellojpa/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hellojpa/Member.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,7 @@
   <component name="RunManager">
     <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMain" />
-      <module name="ex1-hello-jpa" />
+      <module name="02_JPA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hellojpa.*" />
@@ -109,6 +114,10 @@
       <workItem from="1616044143086" duration="1673000" />
       <workItem from="1616658870778" duration="642000" />
       <workItem from="1629713731133" duration="1248000" />
+      <workItem from="1629803618850" duration="34000" />
+      <workItem from="1629804915409" duration="2458000" />
+      <workItem from="1629822300831" duration="1183000" />
+      <workItem from="1629870008117" duration="886000" />
     </task>
     <servers />
   </component>
@@ -116,37 +125,82 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613291544167">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1268" y="139" key="#JpaMain" timestamp="1629805241047">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613291544167" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1614925609418">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1268" y="139" key="#JpaMain/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629805241047" />
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1629823493917">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614925609418" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616658903257">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493917" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1629823493917">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616658903257" />
-    <state width="1478" height="261" key="GridCell.Tab.0.bottom" timestamp="1614926714166">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493917" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1629823493917">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state width="1478" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
-    <state width="1478" height="261" key="GridCell.Tab.0.center" timestamp="1614926714166">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493917" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1629823493917">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state width="1478" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
-    <state width="1478" height="261" key="GridCell.Tab.0.left" timestamp="1614926714166">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493917" />
+    <state width="1877" height="612" key="GridCell.Tab.1.bottom" timestamp="1629823493912">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state width="1478" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
-    <state width="1478" height="261" key="GridCell.Tab.0.right" timestamp="1614926714166">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="612" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493912" />
+    <state width="1877" height="612" key="GridCell.Tab.1.center" timestamp="1629823493912">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state width="1478" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614926714166" />
-    <state x="180" y="72" key="new project wizard" timestamp="1613384179124">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="612" key="GridCell.Tab.1.center/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493912" />
+    <state width="1877" height="612" key="GridCell.Tab.1.left" timestamp="1629823493912">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="180" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613384179124" />
+    <state width="1877" height="612" key="GridCell.Tab.1.left/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493912" />
+    <state width="1877" height="612" key="GridCell.Tab.1.right" timestamp="1629823493912">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="612" key="GridCell.Tab.1.right/0.0.1536.824/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1629823493912" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
