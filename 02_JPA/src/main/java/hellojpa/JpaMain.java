@@ -17,10 +17,15 @@ public class JpaMain {
         tx.begin();
         try{
             member= (Member) em.find(Member.class,1L);
-            member.setCreatedBy("Jjm");
+            member.setCreatedBy("asdfasdfasdf");
             System.out.println("==========경계선. 이밑으로 select나가면 안됨============");
             member2= (Member) em.find(Member.class,1L);
             em.persist(member);
+
+            Member newMember = new Member();
+            newMember.setCreatedBy("haeseong");
+            em.persist(newMember);
+            System.out.println("==");
             tx.commit();
         } catch (Exception e) {
             tx.rollback();
